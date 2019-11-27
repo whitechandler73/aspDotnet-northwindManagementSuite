@@ -1,0 +1,42 @@
+﻿body {
+
+}
+
+#navBarNorthwindLogo {
+    font-size: 1.85em;
+    margin-right: 10px;
+    margin-left: -20px;
+    font-family: 'Agency FB';
+}
+
+.navBarListItem {
+    display: inline-block;
+    margin: 8px;
+}
+
+.northwindLogoImg {
+    margin: 20px 15px 0px 5px;
+    height: 29px;
+    width: 42px;
+}
+
+nav a:link {
+    text-decoration: none;
+    color: darkslategray
+}
+
+nav a:visited {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: indianred;
+}
+
+#bottomHeaderBorder {
+    background-color: gray;
+    height: 2px;
+    width: 80%;
+}
