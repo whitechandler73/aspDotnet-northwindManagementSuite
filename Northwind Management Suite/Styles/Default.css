@@ -2,7 +2,7 @@
 }
 
 .pageContent {
-    background-color: gray;
+/*    background-color: gray; */
     height: auto;
     width: 70%;
     margin: auto;
@@ -11,5 +11,19 @@
 }
 
 .bigLogoOuterContainer {
+    padding: 10px 15% 0 15%;
+    align-content: center;
+    margin: auto;
+}
 
+.bigLogoInnerContainer {
+    margin: auto;
+    overflow: hidden;
+    align-content: center;
+}
+
+.defaultHeader {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Trebuchet MS';
 }

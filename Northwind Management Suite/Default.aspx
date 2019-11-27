@@ -27,7 +27,13 @@
     <div class="pageContent">
         <div class="bigLogoOuterContainer">
             <div class="bigLogoInnerContainer">
-
+                <div class="bigNorthwindHeaderTop defaultHeader">
+                    Northwind
+                </div>
+                <div class="bigNorthwindHeaderBottom defaultHeader">
+                    Management Suite
+                </div>
+                <hr />
             </div>
         </div>
     </div>
