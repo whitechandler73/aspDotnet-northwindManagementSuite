@@ -28,6 +28,12 @@
     font-family: 'Trebuchet MS';
 }
 
-.zoneContainer {
+.zoneBorder {
     height: 35px;
+    border: dotted 2px black;
+}
+
+.aboutContainer {
+    border: dotted 2px black;
+    margin-top: 15px;
 }
