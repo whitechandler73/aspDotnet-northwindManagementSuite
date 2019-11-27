@@ -3,6 +3,13 @@
 
 .pageContent {
     background-color: gray;
-    height: 60%;
+    height: auto;
+    width: 70%;
     margin: auto;
+    margin-top: 2%;
+    position: relative;
+}
+
+.bigLogoOuterContainer {
+
 }
