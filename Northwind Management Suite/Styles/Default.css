@@ -4,7 +4,7 @@
 .pageContent {
 /*    background-color: gray; */
     height: auto;
-    width: 70%;
+    width: 89%;
     margin: auto;
     margin-top: 2%;
     position: relative;
@@ -26,4 +26,8 @@
     text-align: center;
     font-size: 4em;
     font-family: 'Trebuchet MS';
+}
+
+.zoneContainer {
+    height: 35px;
 }
