@@ -36,3 +36,13 @@ footer a:hover {
     border-left: 2px solid gray;
     padding-left: 15px;
 }
+
+.northwindLogoImgFooter {
+    height: 29px;
+    width: 42px;
+}
+
+.footer-center {
+    align-self: center;
+    position: center;
+}
