@@ -1,5 +1,6 @@
 ﻿/* Styling for Default.aspx - Probably shouldn't be used for other sites */
 
+
 .pageContent {
 /*    background-color: gray; */
     height: auto;
@@ -7,6 +8,7 @@
     margin: auto;
     margin-top: 2%;
     position: relative;
+/*    border: 2px solid black; */
 }
 
 .bigLogoOuterContainer {
@@ -27,12 +29,29 @@
     font-family: 'Trebuchet MS';
 }
 
-.zoneBorder {
+.headerZoneBorder {
     height: 35px;
-    border: dotted 2px black;
 }
 
+
 .aboutContainer {
-    border: dotted 2px black;
+/*  border: dotted 2px red; */
     margin-top: 15px;
+    width: 33%;
+    overflow: hidden;
+    padding: 15px 15px 5px 15px;
+
+}
+
+.aboutHeaderContainer {
+/*  border: dotted 2px blue; */
+    font-size: 2.2em;
+    text-align: center;
+    padding-right: 45%;
+}
+
+.aboutParagraphContainer {
+/*    border: dotted 2px cyan; */
+    font-size: 1.43em;
+    padding: 15px;
 }
