@@ -1,13 +1,21 @@
-﻿body {
+﻿/* Styling for Default.aspx - Probably shouldn't be used for other sites */
+main {
+    /*border: 3px solid red;*/
+    padding: 15px;
+}
+
+.textDiv {
+    display: flex;
+    /*border: 2px solid blue;*/
 }
 
 .pageContent {
-/*    background-color: gray; */
     height: auto;
-    width: 70%;
+    width: 89%;
     margin: auto;
     margin-top: 2%;
     position: relative;
+/*    border: 2px solid black; */
 }
 
 .bigLogoOuterContainer {
@@ -26,4 +34,44 @@
     text-align: center;
     font-size: 4em;
     font-family: 'Trebuchet MS';
+}
+
+.zoneBorder {
+    height: 35px;
+    /*border: double 2px blue;*/
+}
+
+
+.aboutContainer {
+    /*border: dotted 2px red;*/ 
+    margin-top: 15px;
+    width: 33%;
+    overflow: hidden;
+    padding: 15px 15px 15px 15px;
+
+}
+
+.headerContainer {
+    /*border: dotted 2px blue;*/ 
+    font-size: 2.2em;
+    text-align: center;
+    padding-right: 45%;
+}
+
+.paragraphContainer {
+    /*border: dotted 2px cyan;*/ 
+    font-size: 1.43em;
+    padding: 15px;
+}
+
+.rightSpaceHolder {
+    /*border: dotted 2px green;*/
+}
+
+.rightSpaceHolder {
+    width: 64%;
+    /*border: dotted 2px green;*/ 
+    margin-top: 15px;
+    overflow: hidden;
+    padding: 15px 15px 15px 15px;
 }
