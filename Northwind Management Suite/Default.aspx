@@ -61,13 +61,13 @@
                     </div>
 
                     <div class="rightSpaceHolder">
-                        <div class="moreShitContainer">
+                        <div class="moreStuffContainer">
                             <div class="headerContainer">
-                                <h3 class="sectionHeader">More Shit</h3>
+                                <h3 class="sectionHeader">More Stuff</h3>
                             </div>
                             <div class="paragraphContainer">
                                 <hr />
-                                <p id="moreShitParagraph">&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac tortor dignissim convallis aenean et tortor at. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Fermentum iaculis eu non diam phasellus. Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Elementum nibh tellus molestie nunc non blandit. Diam sit amet nisl suscipit adipiscing bibendum. Faucibus purus in massa tempor. Sit amet est placerat in egestas erat imperdiet. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Viverra tellus in hac habitasse platea dictumst. Elementum pulvinar etiam non quam. Vitae tempus quam pellentesque nec. Platea dictumst vestibulum rhoncus est. Nec sagittis aliquam malesuada bibendum arcu.</p>
+                                <p id="moreStuffParagraph">&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac tortor dignissim convallis aenean et tortor at. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Fermentum iaculis eu non diam phasellus. Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Elementum nibh tellus molestie nunc non blandit. Diam sit amet nisl suscipit adipiscing bibendum. Faucibus purus in massa tempor. Sit amet est placerat in egestas erat imperdiet. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Viverra tellus in hac habitasse platea dictumst. Elementum pulvinar etiam non quam. Vitae tempus quam pellentesque nec. Platea dictumst vestibulum rhoncus est. Nec sagittis aliquam malesuada bibendum arcu.</p>
                             </div>
                         </div>
                     </div>
@@ -77,27 +77,27 @@
     <div class="zoneBorder">
             <!-- Used to space the footer from the rest of the body's content -->
     </div>
-    <div class="footerContainer">
+
+
         <footer>
-            <div class="footer-leftSide">
-                <ul class="footerList">
-                    <li class="footerElement">&copy; 2019 - Northwind</li>
-                    <li class="footerElement footerLink" id="left-mostFooterElement"><a target="_blank" href="https://github.com/whitechandler73/aspDotnet-northwindManagementSuite">Github</a></li>
-                    <li class="footerElement footerLinK"><a href="Pages/DataManagement.aspx">Data Management</a></li>
-                    <li class="footerElement footerLink"><a href="Pages/About.aspx">About</a></li>
-                    <li class="footerElement footerLink"><a href="Pages/Contact.aspx">Contact</a></li>
-                </ul>
-            </div>
-            <div class="footer-center">
-                <ul class="footerList">
-                    <li class="footerElement"><img class="northwindLogoImgFooter" src="Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
-                </ul>
-            </div>
-            <div class="footer-rightSide">
+            <div class="footerContainer">
+                <div class="footer-leftSide">
+                    <ul class="footerList">
+                        <li class="footerElement">&copy; 2019 - Northwind</li>
+                        <li class="footerElement footerLink" id="left-mostFooterElement"><a target="_blank" href="https://github.com/whitechandler73/aspDotnet-northwindManagementSuite">Github</a></li>
+                        <li class="footerElement footerLinK"><a href="Pages/DataManagement.aspx">Data Management</a></li>
+                        <li class="footerElement footerLink"><a href="Pages/About.aspx">About</a></li>
+                        <li class="footerElement footerLink"><a href="Pages/Contact.aspx">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-center">
+                    <!-- maybe we'll put something here - I was thinking a logo? Not a priority --> 
+                </div>
+                <div class="footer-rightSide">
 
             </div>
+        </div>
         </footer>
-    </div>
 
 
 </body>
