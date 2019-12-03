@@ -51,12 +51,15 @@ main {
 
 }
 
-.headerContainer {
-    /*border: dotted 2px blue;*/ 
+.headerContainer { 
     font-size: 2.2em;
     text-align: center;
-    padding-right: 45%;
+    padding-right: 75%;
+    position: relative;
+    top: 55px;
+    left: 25px;
 }
+
 
 .paragraphContainer {
     /*border: dotted 2px cyan;*/ 

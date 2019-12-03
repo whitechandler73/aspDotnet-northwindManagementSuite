@@ -27,7 +27,7 @@
                     <li class="navBarListItem"><a href="Pages/DataManagement.aspx" target="_blank">Data Management</a></li>
                     <li class="navBarListItem"><a href="Pages/About.aspx">About</a></li>
                     <li class="navBarListItem"><a href="Pages/Contact.aspx">Contact</a></li>
-                </ul>
+                </ul>   
             </nav>
         </div>
         <div id="bottomHeaderBorder"></div>
