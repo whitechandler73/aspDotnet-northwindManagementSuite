@@ -75,3 +75,7 @@ main {
     overflow: hidden;
     padding: 15px 15px 15px 15px;
 }
+
+.sectionHeader {
+    position: relative;
+}
