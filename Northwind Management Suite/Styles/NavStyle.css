@@ -34,6 +34,6 @@ nav a:hover {
 
 #bottomHeaderBorder {
     background-color: gray;
-    height: 2px;
-    width: 80%;
+    height: 6px;
+    width: 100%;
 }
