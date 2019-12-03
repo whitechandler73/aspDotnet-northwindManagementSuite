@@ -12,7 +12,8 @@
         <div class="navContainer">
             <nav class="navBar">
                 <ul>
-                    <li class="navBarListItem" id="navBarNorthwindLogo">Northwind Management Suite <img class="northwindLogoImg" src="../Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
+                     <li class="navBarListItem" id="navBarNorthwindLogo">Northwind Management Suite
+                        <img class="northwindLogoImgNav" src="../Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
                     <li class="navBarListItem"><a href="../Default.aspx">Home</a></li>
                     <li class="navBarListItem"><a href="../Pages/DataManagement.aspx" target="_blank">Data Management</a></li>
                     <li class="navBarListItem"><a href="../Pages/About.aspx">About</a></li>

@@ -9,7 +9,6 @@
     <meta name="language" content="english" /> 
     <meta http-equiv="content-type" content="text/html" />
     <meta name="author" content="Michael White" />
-    <meta name="no-email-collection" content="http://www.unspam.com/noemailcollection/" />
 
     <link rel="stylesheet" type="text/css" href="Styles/Default.css" />
     <link rel="stylesheet" type="text/css" href="Styles/NavStyle.css" />

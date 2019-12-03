@@ -4,15 +4,25 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    
+    <meta charset="utf-8" />
+    <meta name="language" content="english" /> 
+    <meta http-equiv="content-type" content="text/html" />
+    <meta name="author" content="Michael White" />
+
     <link rel="stylesheet" type="text/css" href="../Styles/NavStyle.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/FooterStyle.css" />
+
     <title>Northwind - About</title>
 </head>
+
 <body>    
     <div class="header">
         <div class="navContainer">
             <nav class="navBar">
                 <ul>
-                    <li class="navBarListItem" id="navBarNorthwindLogo">Northwind Management Suite <img class="northwindLogoImg" src="../Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
+                     <li class="navBarListItem" id="navBarNorthwindLogo">Northwind Management Suite
+                        <img class="northwindLogoImgNav" src="../Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
                     <li class="navBarListItem"><a href="../Default.aspx">Home</a></li>
                     <li class="navBarListItem"><a href="../Pages/DataManagement.aspx" target="_blank">Data Management</a></li>
                     <li class="navBarListItem"><a href="../Pages/About.aspx">About</a></li>
