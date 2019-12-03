@@ -1,0 +1,48 @@
+﻿
+
+footer {
+    border-top: 1.5px solid gray;
+    padding: 15px;
+    margin: 5px;
+    margin-bottom:15px;
+}
+
+.footerElement {
+    display: inline-block;
+    margin: 0px 5px 15px 5px;
+    color: darkslategray;
+}
+
+.footer-leftSide {
+    float: left;
+}
+
+footer a:link {
+    text-decoration: none;
+    color: darkslategray
+}
+
+footer a:visited {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: indianred;
+}
+
+#left-mostFooterElement {
+    border-left: 2px solid gray;
+    padding-left: 15px;
+}
+
+.northwindLogoImgFooter {
+    height: 29px;
+    width: 42px;
+}
+
+.footer-center {
+    align-self: center;
+    position: center;
+}
