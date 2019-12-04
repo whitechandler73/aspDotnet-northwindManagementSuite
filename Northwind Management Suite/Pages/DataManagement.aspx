@@ -154,6 +154,7 @@
                 <asp:BoundField DataField="Photo" HeaderText="Photo" SortExpression="Photo" />
                 <asp:BoundField DataField="Notes" HeaderText="Notes" SortExpression="Notes" />
             </Columns>
+            <RowStyle CssClass="employeeTableRow" />
         </asp:GridView>
         <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:BusinessDatabaseConnectionString1 %>" DeleteCommand="DELETE FROM [Employees] WHERE [EmployeeID] = @EmployeeID" InsertCommand="INSERT INTO [Employees] ([EmployeeID], [LastName], [FirstName], [BirthDate], [Photo], [Notes]) VALUES (@EmployeeID, @LastName, @FirstName, @BirthDate, @Photo, @Notes)" ProviderName="<%$ ConnectionStrings:BusinessDatabaseConnectionString1.ProviderName %>" SelectCommand="SELECT [EmployeeID], [LastName], [FirstName], [BirthDate], [Photo], [Notes] FROM [Employees]" UpdateCommand="UPDATE [Employees] SET [LastName] = @LastName, [FirstName] = @FirstName, [BirthDate] = @BirthDate, [Photo] = @Photo, [Notes] = @Notes WHERE [EmployeeID] = @EmployeeID">
             <DeleteParameters>
@@ -310,5 +311,7 @@
             </div>
         </div>
         </footer>
+
+    <script src="../Scripts/setTableCellOverflow.js"></script>
 </body>
 </html>
