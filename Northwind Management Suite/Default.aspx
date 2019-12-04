@@ -10,9 +10,9 @@
     <meta http-equiv="content-type" content="text/html" />
     <meta name="author" content="Michael White" />
 
-    <link rel="stylesheet" type="text/css" href="Styles/Default.css" />
-    <link rel="stylesheet" type="text/css" href="Styles/NavStyle.css" />
-    <link rel="stylesheet" type="text/css" href="Styles/FooterStyle.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/Default.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/NavStyle.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/FooterStyle.css" />
 
     <title>Northwind - Home</title>
 </head>
