@@ -142,7 +142,7 @@
                 <asp:Parameter Name="ProductID" Type="Int32" />
             </UpdateParameters>
         </asp:SqlDataSource>
-        <asp:GridView ID="employeesTbl" runat="server" AutoGenerateColumns="False" CellPadding="5" CellSpacing="10" DataKeyNames="EmployeeID" DataSourceID="SqlDataSource3" EmptyDataText="There are no data records to display." Height="25%" HorizontalAlign="Right" Width="50%" Visible ="False" AllowPaging="True">
+        <asp:GridView ID="employeesTbl" runat="server" AutoGenerateColumns="False" CellPadding="5" CellSpacing="10" DataKeyNames="EmployeeID" DataSourceID="SqlDataSource3" EmptyDataText="There are no data records to display." Height="25%" HorizontalAlign="Right" Width="50%" Visible ="False" AllowPaging="True" PageSize="5">
             <Columns>
                 <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" />
                 <asp:BoundField DataField="EmployeeID" HeaderText="EmployeeID" ReadOnly="True" SortExpression="EmployeeID" />
