@@ -56,7 +56,7 @@
                         </div>
                         <div class="paragraphContainer">
                             <hr />
-                            <p id="aboutParagraph">&emsp;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                            <p id="aboutParagraph">&emsp;Northwind Food Supply was founded in 1910 and have been serving the consumers of the Scranton, Pennsylvania area ever since. We here at Northwind supply the fastest shipping services and most delicious food supplies in the state of Pennsylvania. All of the food packaged here at Northwind is guaranteed fresh, being as we procure our products only from local farms here in Scranton. We believe that local restaurants should be cooking with nothing but local produce, thus invigorating the surrounding economies. <br /><br />&emsp;Food is something that brings everybody together, from any walk of life, so we are driven to provide our customers with the best. We apply this attitude of “the best” not only to our food supply but as well as our shipping services, offering the lowest bulk shipping rates on in the entire Northeast region. Getting food right from the farm and onto your customer’s table as quickly as possible is of upmost importance to us here at Northwind. Our personal mission statement is to assure fast and fresh food, without compromising customer service.</p>
                         </div>
                     </div>
 
@@ -67,7 +67,15 @@
                             </div>
                             <div class="paragraphContainer">
                                 <hr />
-                                <p id="moreStuffParagraph">&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac tortor dignissim convallis aenean et tortor at. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Fermentum iaculis eu non diam phasellus. Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Elementum nibh tellus molestie nunc non blandit. Diam sit amet nisl suscipit adipiscing bibendum. Faucibus purus in massa tempor. Sit amet est placerat in egestas erat imperdiet. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Viverra tellus in hac habitasse platea dictumst. Elementum pulvinar etiam non quam. Vitae tempus quam pellentesque nec. Platea dictumst vestibulum rhoncus est. Nec sagittis aliquam malesuada bibendum arcu.</p>
+                                <article id="moreStuffParagraph">&emsp;
+                                    <ul class ="moreStuffList">
+                                        <li class="moreStuffListElement">&emsp;Northwind Food Supply is holding our annual Food Drive for the Needy on December 14th. Be sure to come out and help the homeless problem here in Scranton. Our goal is to raise at least $10,000 worth of canned food for the local homeless shelter.</li>
+                                        <li class="moreStuffListElement">&emsp;Northwind is a current sponsor of The American Cancer Society’s Relay for Life to raise awareness for breast cancer. If you are interested in being on the Northwind Relay for Life team please contact Chandler White. His contact information is found on the contact page of our website.</li>
+                                        <li class="moreStuffListElement">&emsp;Bring-Your-Kid-To-Work Day is coming up soon! This Friday, December 6th, bring your child to work so they can experience the joys of food packing and shipping!</li>
+                                        <li class="moreStuffListElement">&emsp;Bring-Your-Kid-To-Work Day is coming up soon! Stinky smelly poopie butthole! Haha! This Friday, December 6th, bring your child to work so they can experience the joys of food packing and shipping!</li>
+                                        <li class="moreStuffListElement">&emsp;We are looking to expand! Northwind Food Supply is in talks to open a new office in Stamford, Connecticut. The opening date is still undecided so we will return with more information at a later date.</li>
+                                    </ul>
+                                </article>
                             </div>
                         </div>
                     </div>
@@ -99,6 +107,6 @@
         </div>
         </footer>
 
-
+    <script src="../Scripts/onLoad.js"></script>
 </body>
 </html>

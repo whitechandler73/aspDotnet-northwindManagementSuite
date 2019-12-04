@@ -75,3 +75,9 @@ main {
     overflow: hidden;
     padding: 15px 15px 15px 15px;
 }
+
+.moreStuffListElement {
+    margin: 5%;
+    margin-left: 0 !important;
+    padding: 15px;
+}
