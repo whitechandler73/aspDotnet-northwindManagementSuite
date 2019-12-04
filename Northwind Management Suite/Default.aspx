@@ -52,7 +52,7 @@
                 <div class="textDiv">
                     <div class="aboutContainer">
                         <div class="headerContainer">
-                            <h3 id="sectionHeader">About</h3>
+                            <h3 class="sectionHeader">About</h3>
                         </div>
                         <div class="paragraphContainer">
                             <hr />
