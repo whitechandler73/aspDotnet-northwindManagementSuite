@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="../Styles/DataManagement.css" />
     <link rel="stylesheet" type="text/css" href="../Styles/NavStyle.css" />
     <link rel="stylesheet" type="text/css" href="../Styles/FooterStyle.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/dataManagementFooter.css" />
 
     <title>Northwind - Data Management</title>
 </head>
@@ -28,6 +29,7 @@
         <div id="bottomHeaderBorder"></div>
     </div>
 
+    <main id="dataManagementMainContent">
     <!-- I think that we should put our dropDownList and Table views in this form - not sure --> 
     <form id="form1" runat="server">
     <div>
@@ -288,8 +290,7 @@
         </asp:SqlDataSource>
     </form>
 
-    
-
+    </main>
 
         <footer>
             <div class="footerContainer">
@@ -303,7 +304,6 @@
                     </ul>
                 </div>
                 <div class="footer-center">
-                    <!-- maybe we'll put something here - I was thinking a logo? Not a priority --> 
                 </div>
                 <div class="footer-rightSide">
 
