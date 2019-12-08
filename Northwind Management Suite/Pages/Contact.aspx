@@ -26,9 +26,15 @@
     </div>
 
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
+        Development Team<br />
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource2">
+            <Columns>
+                <asp:BoundField DataField="Name" HeaderText="Name" SortExpression="Name" />
+                <asp:BoundField DataField="Role" HeaderText="Role" SortExpression="Role" />
+                <asp:BoundField DataField="Email" HeaderText="Email" SortExpression="Email" />
+            </Columns>
+        </asp:GridView>
+        <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:BusinessDatabaseConnectionString1 %>" SelectCommand="SELECT [Name], [Role], [Email] FROM [Contact]"></asp:SqlDataSource>
     </form>
 
     
