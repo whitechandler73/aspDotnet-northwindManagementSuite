@@ -20,7 +20,7 @@
                      <li class="navBarListItem" id="navBarNorthwindLogo">Northwind Management Suite
                         <img class="northwindLogoImgNav" src="../Images/12305709971640903060qubodup_Swirly_logo_thing.svg.hi.png" /></li>
                     <li class="navBarListItem"><a href="../Default.aspx">Home</a></li>
-                    <li class="navBarListItem"><a href="../Pages/DataManagement.aspx" target="_blank">Data Management</a></li>
+                    <li class="navBarListItem"><a href="../Pages/DataManagement.aspx">Data Management</a></li>
                     <li class="navBarListItem"><a href="../Pages/About.aspx">About</a></li>
                     <li class="navBarListItem"><a href="../Pages/Contact.aspx">Contact</a></li>
                 </ul>
@@ -298,7 +298,7 @@
                 <div class="footer-leftSide">
                     <ul class="footerList">
                         <li class="footerElement">&copy; 2019 - Northwind</li>
-                        <li class="footerElement footerLink" id="left-mostFooterElement"><a target="_blank" href="https://github.com/whitechandler73/aspDotnet-northwindManagementSuite">Github</a></li>
+                        <li class="footerElement footerLink" id="left-mostFooterElement"><a href="https://github.com/whitechandler73/aspDotnet-northwindManagementSuite">Github</a></li>
                         <li class="footerElement footerLinK"><a href="Pages/DataManagement.aspx">Data Management</a></li>
                         <li class="footerElement footerLink"><a href="Pages/About.aspx">About</a></li>
                         <li class="footerElement footerLink"><a href="Pages/Contact.aspx">Contact</a></li>
