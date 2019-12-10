@@ -6,8 +6,8 @@
 Team Member | Position
 ------------ | -------------
 Chandler White | _Team Lead / Site Architect_
-Daniel Lucy | _Database Administrator / Back end developer_
-Brandon Morgan | _Software Development Intern_
+Daniel Lucy | _Database Administrator / Full stack software developer_
+Brandon Morgan | _Full stack software developer_
 C.J. Kee | _Software Developer / Content Creator_
 
 ### Content Goal
